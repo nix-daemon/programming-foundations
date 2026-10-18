@@ -22,6 +22,8 @@ Source files, tracked executables and editor configuration were copied without c
 
 Original repositories remain available to preserve their existing URLs. Migration pointers and archiving are applied after the consolidated repository has been published and verified. New exercise work belongs in this collection.
 
+The consolidated files, histories, and migration pointers have now been published and verified. Archiving the originals was denied to the integration by GitHub (HTTP 403), so it remains an owner action. [Archive instructions and an optional checked bulk script](migration/ARCHIVE.md) provide that final step.
+
 ## Source mapping
 
 | Original repository | Source tip | New directory | History anchor |

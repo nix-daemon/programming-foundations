@@ -26,7 +26,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "f3e55c441d10b0028e481a7a54c6caf708d75892"
     },
     {
       "repository": "nix-daemon/Adding-Numbers",
@@ -51,7 +52,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "1b4d2347114dbd98e857aa4f1d9a47522c1f0cfa"
     },
     {
       "repository": "nix-daemon/AreaOfACircle",
@@ -75,7 +77,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "acf4d7883da7270169f43e8f4757a96aa0f31c17"
     },
     {
       "repository": "nix-daemon/BMI-Imperial",
@@ -101,7 +104,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "dee99262010c49133904616a3be0a16b23377e4d"
     },
     {
       "repository": "nix-daemon/BMI-Metric",
@@ -128,7 +132,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "47ba607d423248c4e7c9bcc4619a9a9f9bb3947c"
     },
     {
       "repository": "nix-daemon/Classifying-a-Character",
@@ -153,7 +158,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "1de1b3a869f86952e77bb1050fbc76d5e1f77420"
     },
     {
       "repository": "nix-daemon/Coin-Converter",
@@ -177,7 +183,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "72af310c23403889beb8fb7db2abbbae3afcb7ac"
     },
     {
       "repository": "nix-daemon/Coin-Counter",
@@ -201,7 +208,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "c1571f86b98973589ecc7b806056eee23af15373"
     },
     {
       "repository": "nix-daemon/Compute-Expression-Value",
@@ -226,7 +234,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "4ac9444d1f1e08e7ba8cc575fa29902794b78911"
     },
     {
       "repository": "nix-daemon/Computing-Average",
@@ -251,7 +260,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "4c2d4aee572334273c70a57b9eb8b9a1485b60f5"
     },
     {
       "repository": "nix-daemon/Convert-12--hour-to-24-hour",
@@ -276,7 +286,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "22c10d18f1449ed333f1721a3bce2297dc1fd59f"
     },
     {
       "repository": "nix-daemon/Counting-Even-and-Odd-Numbers",
@@ -301,7 +312,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "2486dc12742e5bb821c88f3395f2f6f87d81bdff"
     },
     {
       "repository": "nix-daemon/Counting-and-Summing-Digits",
@@ -326,7 +338,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "6b176af84ec2ada70d6fbc39ad4fbe4ca7fecf85"
     },
     {
       "repository": "nix-daemon/Determine-Parity",
@@ -351,7 +364,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "847aa6e7520e2365c498dc10819f000d8bf408bd"
     },
     {
       "repository": "nix-daemon/Even-Numbers",
@@ -376,7 +390,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "2b779d3935eb3e650f568c021553994fd9373fac"
     },
     {
       "repository": "nix-daemon/Fibonacci",
@@ -402,7 +417,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "888b5adbf0e9098098a04eececeab17648ca3d25"
     },
     {
       "repository": "nix-daemon/Grade-Classification",
@@ -428,7 +444,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "baf5134db2a018f9e704f8d28c14d77a0e9f9570"
     },
     {
       "repository": "nix-daemon/Leap-Year-Command-Line",
@@ -453,7 +470,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "ef4e5fb0b64febc8e0066ec809627f5d9bf9bf6c"
     },
     {
       "repository": "nix-daemon/Let-s-Count",
@@ -480,7 +498,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "a9a2fe6e997c44842919888c25ab383bf987d27f"
     },
     {
       "repository": "nix-daemon/asciiValue",
@@ -504,7 +523,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "62e8f975873f906ee71f7c395671c47d11ddce16"
     },
     {
       "repository": "nix-daemon/helloworld",
@@ -527,7 +547,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "4686d5a2a633f1e186c00d7b84b1b8feb75af58f"
     },
     {
       "repository": "nix-daemon/upperCase",
@@ -551,7 +572,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "4035e9d4b394654cc1459f3fe00c049ea1a98382"
     },
     {
       "repository": "nix-daemon/weeksAndDays",
@@ -575,7 +597,8 @@
       },
       "navigation_files_adjusted_after_import": [
         "README.md"
-      ]
+      ],
+      "archive_expected_tip": "09d0401f8a365f8f89529927594b976046dc0247"
     }
   ]
 }
