@@ -1,0 +1,6 @@
+# Keep new build outputs out of version control. Historical tracked binaries remain preserved.
+build/
+.build/
+*.o
+*.out
+*.exe

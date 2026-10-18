@@ -1,0 +1,581 @@
+{
+  "schema_version": 1,
+  "source_repository_count": 23,
+  "preserved_original_commit_count": 53,
+  "sources": [
+    {
+      "repository": "nix-daemon/Absolute-Value",
+      "source_url": "https://github.com/nix-daemon/Absolute-Value",
+      "source_ref": "refs/heads/master",
+      "source_commit": "82fe9804da91aeb356dfc13e65a634ee6a92ee65",
+      "destination": "cpp/Absolute-Value",
+      "history_tag": "legacy/Absolute-Value",
+      "preserved_commits": [
+        "82fe9804da91aeb356dfc13e65a634ee6a92ee65",
+        "9a07b33cbf221fca5d2bb607dc7f336203e2144e"
+      ],
+      "source_refs": {
+        "HEAD": "82fe9804da91aeb356dfc13e65a634ee6a92ee65",
+        "refs/heads/master": "82fe9804da91aeb356dfc13e65a634ee6a92ee65"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "c9847d9a53a2f16fe5cca9fdf239197b7a113d52dbf53f049f25873af6baad15",
+        "absoluteValue.cpp": "41e1bc343eeb7e2dda23a85ffca916691055cb991a31a3a2a2e68c0a7c785822",
+        "absoluteValue.exe": "5971131935df185932cc8540fcdd98a3fd685424200a9643d43b7cb688025449"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Adding-Numbers",
+      "source_url": "https://github.com/nix-daemon/Adding-Numbers",
+      "source_ref": "refs/heads/master",
+      "source_commit": "f4af18ef3d5fdb58b1ad303bf4908954e570bc47",
+      "destination": "cpp/Adding-Numbers",
+      "history_tag": "legacy/Adding-Numbers",
+      "preserved_commits": [
+        "f4af18ef3d5fdb58b1ad303bf4908954e570bc47",
+        "e7afd66b38f76a550e8db894e90b6e9b8b73fe45",
+        "fa3ca5c56b76669be55ba7102d7845a4c01229ed"
+      ],
+      "source_refs": {
+        "HEAD": "f4af18ef3d5fdb58b1ad303bf4908954e570bc47",
+        "refs/heads/master": "f4af18ef3d5fdb58b1ad303bf4908954e570bc47"
+      },
+      "original_file_sha256": {
+        "Adding Numbers.cpp": "b4e5adc148c448ea298de09f258de2e679e719ee539d96e947834cb153a62527",
+        "Adding Numbers.exe": "bba81666d986f68c4b1887981394d960397f601fab6b389219796096562f2de8",
+        "README.md": "64f3cd3fabcaae85337f4a34b5074b6d200d55da603262639582a7137bbebab2"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/AreaOfACircle",
+      "source_url": "https://github.com/nix-daemon/AreaOfACircle",
+      "source_ref": "refs/heads/master",
+      "source_commit": "727e0a6d286e3ff20d51164c1fd458afb381bf16",
+      "destination": "cpp/AreaOfACircle",
+      "history_tag": "legacy/AreaOfACircle",
+      "preserved_commits": [
+        "727e0a6d286e3ff20d51164c1fd458afb381bf16",
+        "ded7b0678999843817d4bd26a23f69d3daf353e7"
+      ],
+      "source_refs": {
+        "HEAD": "727e0a6d286e3ff20d51164c1fd458afb381bf16",
+        "refs/heads/master": "727e0a6d286e3ff20d51164c1fd458afb381bf16"
+      },
+      "original_file_sha256": {
+        "README.md": "c6642ace003f29c20dea1ce0dc1a3e6ace0eeb33bd794815235d29a346d0ca4a",
+        "areaOfACircle.cpp": "8296ddb751fb99a0294899cc0cdc81ef10f3c0a0ef461bbe39af06246d4457a6",
+        "areaOfACircle.exe": "1f748cfb1b12eb09ac305e649c6cd8244e03d920152edb402edc2a1d7ed72f99"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/BMI-Imperial",
+      "source_url": "https://github.com/nix-daemon/BMI-Imperial",
+      "source_ref": "refs/heads/master",
+      "source_commit": "6b8665249044c346dedaf3e1366a94eaaa3de723",
+      "destination": "cpp/BMI-Imperial",
+      "history_tag": "legacy/BMI-Imperial",
+      "preserved_commits": [
+        "6b8665249044c346dedaf3e1366a94eaaa3de723",
+        "898ec2455daf22692c157f53a7b5891ab30a7f15",
+        "d23aab6818cc5dfa9eeac03b76897406468610cf"
+      ],
+      "source_refs": {
+        "HEAD": "6b8665249044c346dedaf3e1366a94eaaa3de723",
+        "refs/heads/master": "6b8665249044c346dedaf3e1366a94eaaa3de723"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "88d2433d5d8d8331a200aeed55a4ec5efd85eaa5bef1410661ec6295d8b27193",
+        "bmiimperial.cpp": "d63d8adf27cb6c6a049ae6803becfd1e1fedcbf3d8bbb1ffeae9800ba23ac55b",
+        "bmiimperial.exe": "0f8a6b1cb5a6606ab7289793c475f98de7f73e4455acaa7ed54eec66ebea6baf"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/BMI-Metric",
+      "source_url": "https://github.com/nix-daemon/BMI-Metric",
+      "source_ref": "refs/heads/master",
+      "source_commit": "0687e68b8dc41a138d88506a65421ff15f813270",
+      "destination": "cpp/BMI-Metric",
+      "history_tag": "legacy/BMI-Metric",
+      "preserved_commits": [
+        "0687e68b8dc41a138d88506a65421ff15f813270",
+        "0fb3ecba23a2526626a41144f7f2e677a07fcff8",
+        "706bca3f801449a9d5d15efca9013806b56f52b3",
+        "fd9e32b0d0cf08edf37db5b669ba30db39d68889"
+      ],
+      "source_refs": {
+        "HEAD": "0687e68b8dc41a138d88506a65421ff15f813270",
+        "refs/heads/master": "0687e68b8dc41a138d88506a65421ff15f813270"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "208b5df0453471274a93c769df35118f8caca28707900d901562274604184ee5",
+        "bmimetric.cpp": "ea0e3b37d32c371425e78c6d23b2d605b69c0f3e7ef09f983b9c3a4ff79abdb6",
+        "bmimetric.exe": "5108881e58f7246d6c6a070c9c3599b84c9e87cb60b0e402fc59e3cb9945ab71"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Classifying-a-Character",
+      "source_url": "https://github.com/nix-daemon/Classifying-a-Character",
+      "source_ref": "refs/heads/master",
+      "source_commit": "746b3cdaa12928c637c27ae59f33b16c7c39f8a5",
+      "destination": "cpp/Classifying-a-Character",
+      "history_tag": "legacy/Classifying-a-Character",
+      "preserved_commits": [
+        "746b3cdaa12928c637c27ae59f33b16c7c39f8a5",
+        "35541096e8c124cb2e747da9ebac67df3a61ff27"
+      ],
+      "source_refs": {
+        "HEAD": "746b3cdaa12928c637c27ae59f33b16c7c39f8a5",
+        "refs/heads/master": "746b3cdaa12928c637c27ae59f33b16c7c39f8a5"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "c7457b866d4820c20d30f81bf57b1df95f2907f18ca83077b0d9aec34aff3013",
+        "characterClassify.cpp": "6e6b6c2e7adfef1c90f4132ef29677a58d9dd20014f7a11ef016a708ce592181",
+        "characterClassify.exe": "3b8ddd76f56e0d3804deb013680e8cf452778142e5ac1cf5f4c346b9b515b8c4"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Coin-Converter",
+      "source_url": "https://github.com/nix-daemon/Coin-Converter",
+      "source_ref": "refs/heads/master",
+      "source_commit": "97f88fea022498f51c1cbe9162593e0dcd27ec8a",
+      "destination": "cpp/Coin-Converter",
+      "history_tag": "legacy/Coin-Converter",
+      "preserved_commits": [
+        "97f88fea022498f51c1cbe9162593e0dcd27ec8a",
+        "c1192d57a4893bc79e4f21323c2503d988350052"
+      ],
+      "source_refs": {
+        "HEAD": "97f88fea022498f51c1cbe9162593e0dcd27ec8a",
+        "refs/heads/master": "97f88fea022498f51c1cbe9162593e0dcd27ec8a"
+      },
+      "original_file_sha256": {
+        "README.md": "998cbb79fe6c94e3fe0b17650ac25e951fd24b3d5d7b4a695e138d348f81409d",
+        "coins.cpp": "0b279aefcb3c9cfaf01f1fa451888e76aaf22753ed6dc2c1e65dca38f7a00685",
+        "coins.exe": "169ddc110c25f02994e60683970df6cb41096d6fa708a9c379b94405e1598125"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Coin-Counter",
+      "source_url": "https://github.com/nix-daemon/Coin-Counter",
+      "source_ref": "refs/heads/master",
+      "source_commit": "35fb191fddfc60232d7188b0f7c223f0e1b3739b",
+      "destination": "cpp/Coin-Counter",
+      "history_tag": "legacy/Coin-Counter",
+      "preserved_commits": [
+        "35fb191fddfc60232d7188b0f7c223f0e1b3739b",
+        "883382872127196ef1347ef54f3a47c4599de381"
+      ],
+      "source_refs": {
+        "HEAD": "35fb191fddfc60232d7188b0f7c223f0e1b3739b",
+        "refs/heads/master": "35fb191fddfc60232d7188b0f7c223f0e1b3739b"
+      },
+      "original_file_sha256": {
+        "README.md": "dacf00eb0c87ddbd622344775203e536970f716108ea430755a8d061fd560876",
+        "counter.cpp": "bbfffcd83d8831c4df68dd91290fdd9117a78334ab9b881c14c58403a23266ea",
+        "counter.exe": "c84b277e7ca7a2e3e8fe06f9540c9397d31be132c902135b4e145ca4c42e76bf"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Compute-Expression-Value",
+      "source_url": "https://github.com/nix-daemon/Compute-Expression-Value",
+      "source_ref": "refs/heads/master",
+      "source_commit": "b3e19d5776f672fea4c311496c4bbeadf90030cd",
+      "destination": "cpp/Compute-Expression-Value",
+      "history_tag": "legacy/Compute-Expression-Value",
+      "preserved_commits": [
+        "b3e19d5776f672fea4c311496c4bbeadf90030cd",
+        "0aa46bcc97c533d1ad141f545c45e5194d314d50"
+      ],
+      "source_refs": {
+        "HEAD": "b3e19d5776f672fea4c311496c4bbeadf90030cd",
+        "refs/heads/master": "b3e19d5776f672fea4c311496c4bbeadf90030cd"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "8bb1b55e82db0d0cd6125890bf9bd6ae1ca717d0463e92922e5c2540b0877ebb",
+        "evalExpression.cpp": "9cde5f35d8e3f447478c08b74e4ac34c3af86040600ce50d9e8d7854a534dfce",
+        "evalExpression.exe": "8993c6a7262ce6b5a0b6614897c5d9ce2f09e5265012c41293e2e8593e69fb9a"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Computing-Average",
+      "source_url": "https://github.com/nix-daemon/Computing-Average",
+      "source_ref": "refs/heads/master",
+      "source_commit": "82f096ef3567bda56415248d144e0af46df5ed94",
+      "destination": "cpp/Computing-Average",
+      "history_tag": "legacy/Computing-Average",
+      "preserved_commits": [
+        "82f096ef3567bda56415248d144e0af46df5ed94",
+        "1e2ee8fe7c4802d84cb999c940511bf0117a5f8e"
+      ],
+      "source_refs": {
+        "HEAD": "82f096ef3567bda56415248d144e0af46df5ed94",
+        "refs/heads/master": "82f096ef3567bda56415248d144e0af46df5ed94"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "4c618dfa5f2f301307a1b1a96ba0e804050e2c7d95a8470905a05394142374a0",
+        "avgCompute.cpp": "33db352b0dd33c010ce0d2448652199ab4780cc875d17aef8500b56ef820821a",
+        "avgCompute.exe": "989d22dd016d6bc1c5aa7c4e7bd25d554b3a00475562b2fac128ae80da49db08"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Convert-12--hour-to-24-hour",
+      "source_url": "https://github.com/nix-daemon/Convert-12--hour-to-24-hour",
+      "source_ref": "refs/heads/master",
+      "source_commit": "80c0a818b55597670e97e5e0119cdf00fcdeb587",
+      "destination": "cpp/Convert-12--hour-to-24-hour",
+      "history_tag": "legacy/Convert-12--hour-to-24-hour",
+      "preserved_commits": [
+        "80c0a818b55597670e97e5e0119cdf00fcdeb587",
+        "7e71c58895493a8691243dd44dcc4ad9276d709b"
+      ],
+      "source_refs": {
+        "HEAD": "80c0a818b55597670e97e5e0119cdf00fcdeb587",
+        "refs/heads/master": "80c0a818b55597670e97e5e0119cdf00fcdeb587"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "bcbf223cdbcec128abba37aca3a214c74602c6084a59a18aafbe80ef4be6c04e",
+        "timeConversion.cpp": "fc985a0d625bee8cb92aba1edeb29078917d18063d387f446b1cbd4e50ff9b49",
+        "timeConversion.exe": "d1601e45ee934c9bb46f4645d5124f3511bf96cc2800b6b2fde3bc6680363cf8"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Counting-Even-and-Odd-Numbers",
+      "source_url": "https://github.com/nix-daemon/Counting-Even-and-Odd-Numbers",
+      "source_ref": "refs/heads/master",
+      "source_commit": "5a0e9d9d8274868629cfa8989358a0156f51a82f",
+      "destination": "cpp/Counting-Even-and-Odd-Numbers",
+      "history_tag": "legacy/Counting-Even-and-Odd-Numbers",
+      "preserved_commits": [
+        "5a0e9d9d8274868629cfa8989358a0156f51a82f",
+        "79cb51d46194b35b0480d4ca5e111bcda4f8ecdd"
+      ],
+      "source_refs": {
+        "HEAD": "5a0e9d9d8274868629cfa8989358a0156f51a82f",
+        "refs/heads/master": "5a0e9d9d8274868629cfa8989358a0156f51a82f"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "ef23c543e4a1fdd2afe37b9432a2e1efe8d6a78648cc69fbe94c1310a13906f9",
+        "countoddeven.cpp": "5268ec9bd1151574c3842578aabcdcab1f1624efe7032428d8dc974d31a17f88",
+        "countoddeven.exe": "1a48707a57d7ea2bb76b4718bf884b529db8f67f43dadaa63f4e7fb088ec77fc"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Counting-and-Summing-Digits",
+      "source_url": "https://github.com/nix-daemon/Counting-and-Summing-Digits",
+      "source_ref": "refs/heads/master",
+      "source_commit": "32ee2ff29adb6b35de2e6ef26e3139227c4f6e3d",
+      "destination": "cpp/Counting-and-Summing-Digits",
+      "history_tag": "legacy/Counting-and-Summing-Digits",
+      "preserved_commits": [
+        "32ee2ff29adb6b35de2e6ef26e3139227c4f6e3d",
+        "42410b2bd16796f6f6d458b79f52d47058aaeffd"
+      ],
+      "source_refs": {
+        "HEAD": "32ee2ff29adb6b35de2e6ef26e3139227c4f6e3d",
+        "refs/heads/master": "32ee2ff29adb6b35de2e6ef26e3139227c4f6e3d"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "1e04294de34baa7071231392315bf557be3b834ecf6824586a1f66dbd0e76445",
+        "countSumDigits.cpp": "a0020d460e48c5811e1709d969844d4f745f136dcd4a45fb248c707805d37478",
+        "countSumDigits.exe": "d3189b1aa2e1d676b7ad9c355a65712e207e174caf882b527b8c4d11cc9f40ea"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Determine-Parity",
+      "source_url": "https://github.com/nix-daemon/Determine-Parity",
+      "source_ref": "refs/heads/master",
+      "source_commit": "a8ac12ce80b38fd797fbb9848f3586e8b8b95ce9",
+      "destination": "cpp/Determine-Parity",
+      "history_tag": "legacy/Determine-Parity",
+      "preserved_commits": [
+        "a8ac12ce80b38fd797fbb9848f3586e8b8b95ce9",
+        "68e562951c8b9f2bfaa9dafbf174b8053da01112"
+      ],
+      "source_refs": {
+        "HEAD": "a8ac12ce80b38fd797fbb9848f3586e8b8b95ce9",
+        "refs/heads/master": "a8ac12ce80b38fd797fbb9848f3586e8b8b95ce9"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "8650839c463bf33aae39dd9e7c8ff942579abfd863f6fa68925f4029b7634d82",
+        "determineParity.cpp": "cc3af44616ffa5384f156688e877bf3871b5c5d42e15ca72ba8904ec1ebd494a",
+        "determineParity.exe": "1bbf3725eaa94e18ccae06c1fee229bbeca8a9ede2ad4b3e6503dcae50ccca16"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Even-Numbers",
+      "source_url": "https://github.com/nix-daemon/Even-Numbers",
+      "source_ref": "refs/heads/master",
+      "source_commit": "fe0fa56bb5ad52fe215843570127308f0c57d90d",
+      "destination": "cpp/Even-Numbers",
+      "history_tag": "legacy/Even-Numbers",
+      "preserved_commits": [
+        "fe0fa56bb5ad52fe215843570127308f0c57d90d",
+        "6e215a3e691714a859c0b9a1ea417a4d9eb488fa"
+      ],
+      "source_refs": {
+        "HEAD": "fe0fa56bb5ad52fe215843570127308f0c57d90d",
+        "refs/heads/master": "fe0fa56bb5ad52fe215843570127308f0c57d90d"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "e3260e402c3b197dc48003efe4d3827c3ef6d17013afcfe1e993a7cbfa02e243",
+        "evennumbers.cpp": "5758a0eb94455d79f3cc477be965629b9a993f30afb767458e0f19f4d92f8a77",
+        "evennumbers.exe": "25775a36c41e83bd18e308d85409fa75e0e0a16483ee37958beb118897e79db6"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Fibonacci",
+      "source_url": "https://github.com/nix-daemon/Fibonacci",
+      "source_ref": "refs/heads/master",
+      "source_commit": "6ba932ae65d2e9b50ac41b237eaa172e29d02b3f",
+      "destination": "cpp/Fibonacci",
+      "history_tag": "legacy/Fibonacci",
+      "preserved_commits": [
+        "6ba932ae65d2e9b50ac41b237eaa172e29d02b3f",
+        "4e8301447f13dc969f1b1a292bf0de39284f0095",
+        "f14433ddc610690c89cb8a6e2a97999eff50246c"
+      ],
+      "source_refs": {
+        "HEAD": "6ba932ae65d2e9b50ac41b237eaa172e29d02b3f",
+        "refs/heads/master": "6ba932ae65d2e9b50ac41b237eaa172e29d02b3f"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "43603a0196b2b50c29f636030eca9c855e8bed3835f26e0584fc19eed9fc6a06",
+        "fibonacci.cpp": "c528280f53407393dad5e0e4aacca77d774085fd6c846ffe8580a58fcfdfc9ca",
+        "fibonacci.exe": "9d4f23d7c8df37af2ce5c709e2c720a13a4547d74366b24856aefde420ca9249"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Grade-Classification",
+      "source_url": "https://github.com/nix-daemon/Grade-Classification",
+      "source_ref": "refs/heads/master",
+      "source_commit": "6d2b6d0cb43d0900451c2aad51a13f74612d662a",
+      "destination": "cpp/Grade-Classification",
+      "history_tag": "legacy/Grade-Classification",
+      "preserved_commits": [
+        "6d2b6d0cb43d0900451c2aad51a13f74612d662a",
+        "37f641345a4e0ac6b6442e9aa7d3c4be7c6e158b",
+        "41b08138413a4d99e83276585ffda4ed8f2ee72f",
+        "064a24ddd96a8e61c82048cbdbe1c3b3bec7eca2"
+      ],
+      "source_refs": {
+        "HEAD": "6d2b6d0cb43d0900451c2aad51a13f74612d662a",
+        "refs/heads/master": "6d2b6d0cb43d0900451c2aad51a13f74612d662a"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "845a4e6fee74f6000c3d5822f231cb70ce41290648384b95ec7ff9b8fa34ad4a",
+        "gradeclass.cpp": "06bad9cd5362f7cfdb787b8d4b9840608c880160979139f9ecd164ba60c90403"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Leap-Year-Command-Line",
+      "source_url": "https://github.com/nix-daemon/Leap-Year-Command-Line",
+      "source_ref": "refs/heads/master",
+      "source_commit": "b3ee68c541a30df5980569e489f8e0dc9381c223",
+      "destination": "cpp/Leap-Year-Command-Line",
+      "history_tag": "legacy/Leap-Year-Command-Line",
+      "preserved_commits": [
+        "b3ee68c541a30df5980569e489f8e0dc9381c223",
+        "e8bd856e846e6888051d36f677c30eafbee3dda3"
+      ],
+      "source_refs": {
+        "HEAD": "b3ee68c541a30df5980569e489f8e0dc9381c223",
+        "refs/heads/master": "b3ee68c541a30df5980569e489f8e0dc9381c223"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "dc46dc69af1c8e5a446a7e028975c83655c18cd42fe665405eb35f3e23aa55dd",
+        "isleapyearc.cpp": "3172794763cde8a737ef23447104f7dc35396a5ef3010ef797e89cf26416ada1",
+        "isleapyearc.exe": "e7d2ec7103c56d5ce2456f9e84f37a40f3e7c1e30705423f5af4de204eb8ee12"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/Let-s-Count",
+      "source_url": "https://github.com/nix-daemon/Let-s-Count",
+      "source_ref": "refs/heads/master",
+      "source_commit": "7788abb000c4ef34440fb7dda1ed01fa0002110d",
+      "destination": "cpp/Let-s-Count",
+      "history_tag": "legacy/Let-s-Count",
+      "preserved_commits": [
+        "7788abb000c4ef34440fb7dda1ed01fa0002110d",
+        "0b0f6b71cb3816aa80e396603bb7d30b0f5fe5a6"
+      ],
+      "source_refs": {
+        "HEAD": "7788abb000c4ef34440fb7dda1ed01fa0002110d",
+        "refs/heads/master": "7788abb000c4ef34440fb7dda1ed01fa0002110d"
+      },
+      "original_file_sha256": {
+        ".vscode/tasks.json": "27f0ca5edd474ccba9bbedfa7eba00b6bc09aa0c7aa5969b8d3b45bbd603c034",
+        "README.md": "e8553f9ec4803d92d55bb1aca2dd4763cc829b0c58e401a92e04db5e6b5ec303",
+        "countFor.cpp": "e5c3afd5fe5cf4e29a80b7ebe0f9516d52edf2b7711f1a1a11fa415ea0748a30",
+        "countFor.exe": "18386d1ac337484942b58d2c7b2c1fae82cc2df8412e7ede459c79cce2c95dee",
+        "countWhile.cpp": "b8cc7255449b2a7e673143ea81b3e428e5705a082dd4bf354dcdef063c95284f",
+        "countWhile.exe": "e38c8a4888a245880acb9ca68a006fb8af24ab2f9474c40468e8a1526e89b53f"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/asciiValue",
+      "source_url": "https://github.com/nix-daemon/asciiValue",
+      "source_ref": "refs/heads/master",
+      "source_commit": "8eed27aa823eee41865bf228f736c38ffafb3e04",
+      "destination": "cpp/asciiValue",
+      "history_tag": "legacy/asciiValue",
+      "preserved_commits": [
+        "8eed27aa823eee41865bf228f736c38ffafb3e04",
+        "ddec302d9fcd4ca213056bf6b744c922335fa3ab"
+      ],
+      "source_refs": {
+        "HEAD": "8eed27aa823eee41865bf228f736c38ffafb3e04",
+        "refs/heads/master": "8eed27aa823eee41865bf228f736c38ffafb3e04"
+      },
+      "original_file_sha256": {
+        "README.md": "d1c890cca88e7b797caf828ed13b4bcbf6f3250f24d4c811c1b2f123d6237405",
+        "asciiValue.cpp": "ed627650fa7fcdad60ef91e1679cb96dad27674f2624c79a74946bd2ac89be85",
+        "asciiValue.exe": "0bbf7a39e058644722c370d92a99cab3f986edbec737684143e6e707c4801522"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/helloworld",
+      "source_url": "https://github.com/nix-daemon/helloworld",
+      "source_ref": "refs/heads/master",
+      "source_commit": "a2ed993ca62146bb5c61436e5ff4d54893538f0d",
+      "destination": "cpp/helloworld",
+      "history_tag": "legacy/helloworld",
+      "preserved_commits": [
+        "a2ed993ca62146bb5c61436e5ff4d54893538f0d",
+        "71b29ce10b6fa4df10c770dac00d519cd674e155"
+      ],
+      "source_refs": {
+        "HEAD": "a2ed993ca62146bb5c61436e5ff4d54893538f0d",
+        "refs/heads/master": "a2ed993ca62146bb5c61436e5ff4d54893538f0d"
+      },
+      "original_file_sha256": {
+        "README.md": "a7b398e66b4b875b48db5721762413f939e226e830186ece6931be7399aa3ec6",
+        "hello.cpp": "214883f1466aab037182ad0d1c96cf52dbcc53b1b04fe91c6e60cab49a91ffb9"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/upperCase",
+      "source_url": "https://github.com/nix-daemon/upperCase",
+      "source_ref": "refs/heads/master",
+      "source_commit": "1fb7a6c5449eb3d6b6ed552766b16ae5102028ac",
+      "destination": "cpp/upperCase",
+      "history_tag": "legacy/upperCase",
+      "preserved_commits": [
+        "1fb7a6c5449eb3d6b6ed552766b16ae5102028ac",
+        "837e384e09b1449dc6969d13f80d60bccb3d73f2"
+      ],
+      "source_refs": {
+        "HEAD": "1fb7a6c5449eb3d6b6ed552766b16ae5102028ac",
+        "refs/heads/master": "1fb7a6c5449eb3d6b6ed552766b16ae5102028ac"
+      },
+      "original_file_sha256": {
+        "README.md": "27bfa57f37d57f1d29aecebd3fa5ac6b1b54c0359156be9932809f9a2ea808eb",
+        "upperCase.cpp": "4fa38bfcced5c7d7c4ab2e94ae5d04ec05f8f3aa8aae17d1b1313ace9689e650",
+        "upperCase.exe": "9a93982ec714b00ec489e472280a9513cccab110a6cd5f26bc85be825f9c7f43"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    },
+    {
+      "repository": "nix-daemon/weeksAndDays",
+      "source_url": "https://github.com/nix-daemon/weeksAndDays",
+      "source_ref": "refs/heads/master",
+      "source_commit": "23fcfdc356798831a78439b70d3ba40f38caafeb",
+      "destination": "cpp/weeksAndDays",
+      "history_tag": "legacy/weeksAndDays",
+      "preserved_commits": [
+        "23fcfdc356798831a78439b70d3ba40f38caafeb",
+        "21dd1a1e4bd085da70d814b57b5b01a0dfecc018"
+      ],
+      "source_refs": {
+        "HEAD": "23fcfdc356798831a78439b70d3ba40f38caafeb",
+        "refs/heads/master": "23fcfdc356798831a78439b70d3ba40f38caafeb"
+      },
+      "original_file_sha256": {
+        "README.md": "7288ce52da0e1097ff7a6bd3003cae8912d2baaec46a5922d237dc6b97287498",
+        "weeksAndDays.cpp": "c06bf112d7371956c4b485c1c1de92d8476be3bc4b94f1d4eb5309aa6738fa7e",
+        "weeksAndDays.exe": "323b7918f80b92fb30e7908c47f5df31929a1ba6f46b467028a6dd46a5f489db"
+      },
+      "navigation_files_adjusted_after_import": [
+        "README.md"
+      ]
+    }
+  ]
+}
